@@ -1,5 +1,7 @@
 # Repositório para um vídeo no meu canal, confira abaixo
 
+[Vídeo aqui](https://youtu.be/m67ns9VDQh4)
+
 ## React Junior Challenge
 
 ### Descrição
