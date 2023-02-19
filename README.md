@@ -1,6 +1,10 @@
 # Repositório para um vídeo no meu canal, confira abaixo
 
-[Vídeo aqui](https://youtu.be/m67ns9VDQh4)
+[Vídeo aqui]()
+
+[![Vídeo no youtube](https://user-images.githubusercontent.com/29175815/219976649-5c71c357-6c56-46ec-95ca-a7c6b4a3c9c4.png)](https://youtu.be/m67ns9VDQh4)
+
+
 
 ## React Junior Challenge
 
